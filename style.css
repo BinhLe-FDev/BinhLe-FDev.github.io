@@ -1,6 +1,6 @@
 .main {
-    /* background: #f0f0f0; */
-    background-image: url('https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=100vh');
+    background: #7f7f7f;
+    /*background-image: url('https://antimatter.vn/wp-content/uploads/2022/05/background-dep-1.jpg?auto=compress&cs=tinysrgb&w=100vh');*/
     background-repeat: no-repeat;
     font-family: sans-serif;
     font-size: 14px;
@@ -15,7 +15,11 @@
     padding: 1rem;
     overflow: auto;
     -webkit-text-stroke: 1px #222;
-    /* background-color: #fff; */
+    background: #7f7f7f;
+}
+
+.main .container {
+    background: #f0f0f0;
 }
 
 .main .container .header {
