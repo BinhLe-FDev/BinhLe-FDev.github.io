@@ -2,10 +2,10 @@
     background: #7f7f7f;
     /*background-image: url('https://antimatter.vn/wp-content/uploads/2022/05/background-dep-1.jpg?auto=compress&cs=tinysrgb&w=100vh');*/
     background-repeat: no-repeat;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: 600;
-    color: #fff;
+    color: #222;
     padding: 1rem;
     min-height: 100vh;
     background-size: cover;
@@ -14,7 +14,7 @@
 .main .container {
     padding: 1rem;
     overflow: auto;
-    -webkit-text-stroke: 1px #222;
+    -webkit-text-stroke: 0px #222;
     background: #7f7f7f;
 }
 
